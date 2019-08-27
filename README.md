@@ -3,14 +3,14 @@
 ### Goals
 
 -   Complete the Python for Everybody Specialization
-
+-   Become sufficient with Python
 ### Boundaries / Scope
 
 -   Complete Course 1 Programming for Everybody (Getting Started with Python)
 -   Complete Course 2 Python Data Structures
 
 ### Success criteria
-
+-   Post monthly with repository.
 -   My own application for data retrieval and processing.
 -   Weekly work log with screenshots and summaries to demonstrate activity.
 
@@ -23,7 +23,8 @@
 -   The courses will be available for the duration of the semester.
 -   I have all required software.
 -   I can skip the Installing and Using Python units.
-
+-   I'd like to be able to have python on my personal computer to full use phyton
+-   I'm most likely going to start out really terribly with python but that's okay since I will get better over time.
 ### Stakeholders
 
 -   Professor - for grade
