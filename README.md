@@ -50,9 +50,9 @@ Week:
 
 
 
-Week 1 Work Log:
-Week 2 Work Log:
-Week 3 Work Log:
-Week 4 Work Log:
-Week 5 Work Log:
-Week 6 Work Log
+- Week 1 Work Log:
+- Week 2 Work Log:
+- Week 3 Work Log:
+- Week 4 Work Log:
+- Week 5 Work Log:
+- Week 6 Work Log
