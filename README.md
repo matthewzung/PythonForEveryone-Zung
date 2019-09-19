@@ -47,3 +47,12 @@ Week:
 10.  Chapter Ten: Tuples (2 hours)
 11.  Graduation and work on independent program (2 hours)
 12.  Complete independent program (2 hours)
+
+
+
+Week 1 Work Log:
+Week 2 Work Log:
+Week 3 Work Log:
+Week 4 Work Log:
+Week 5 Work Log:
+Week 6 Work Log
