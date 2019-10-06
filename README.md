@@ -49,8 +49,9 @@ Week:
 12.  Complete independent program (2 hours)
 
 
-
+### Notes
 - Week 1 Work Log:
+In week 1
 - Week 2 Work Log:
 - Week 3 Work Log:
 - Week 4 Work Log:
