@@ -62,3 +62,6 @@ Week 4 really picked up speed and started to involve new commands such as boolea
 In week 5, python finally started to heat up with conditional statements. Using math opperations such as greater than and equal to or just greater than. We also used == and !=. We also were using flowcharts to help understand what the conditional statements were actually saying. We also vaugely introduced variables.
 - Week 6 Work Log:
 Week 6 was all about functions in python and how to apply and use them when actually making a program. It was all about applying and writing new code. def was the very first function we used. Also we used int, float,str,input.
+- Week 7 Work Log:
+Loops! Finally caught up to our actual class. This weeks lectures were about loops, what loops are used for, the different types of loops, and how to actually use loops when programming. We talked about definite loops and indefinite loops as well.
+We also did some excersises while in the lectures of practicing when to use a definite loop and a indefinite loop. I'd say this week was the most valiable information to actually start to help me a ton while programming.
