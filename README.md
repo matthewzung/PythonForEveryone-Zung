@@ -51,7 +51,7 @@ Week:
 
 ### Notes
 - Week 1 Work Log:
-In week 1
+In week 1 I learned about the reason for why we program and use computers in general. The first week wasn't used to code much. The only small program i was to create was the "Hello World" one. Which was really basic so i had zero trouble. The course also introduced me to the basic overview of what python is and what it is as a programming langauge. The teacher also talks about how computers affect our daily lives and why programmnig is so vital to the future.
 - Week 2 Work Log:
 - Week 3 Work Log:
 - Week 4 Work Log:
