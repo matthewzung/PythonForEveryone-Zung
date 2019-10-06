@@ -55,6 +55,7 @@ In week 1 I learned about the reason for why we program and use computers in gen
 - Week 2 Work Log:
 Week 2 focused on the overall basics of python, such as downloading it onto the computer and learning the basic commands that you can use while useing python. Another thing that was mentioned was the use of screenshots and how to capture them. We then had a basic quiz that i still couldnt submit since the course it audited but i was able to give the gist of it. The quiz overview was about the stuff mentioned in week one as well as the new basic commands we have now just learned.
 - Week 3 Work Log:
+Week 3 was very short. The point was getting a better grasp on python and still the basic commands that you can use in python.
 - Week 4 Work Log:
 - Week 5 Work Log:
 - Week 6 Work Log
