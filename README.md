@@ -57,5 +57,8 @@ Week 2 focused on the overall basics of python, such as downloading it onto the 
 - Week 3 Work Log:
 Week 3 was very short. The point was getting a better grasp on python and still the basic commands that you can use in python.
 - Week 4 Work Log:
+Week 4 really picked up speed and started to involve new commands such as boolean expressions and started to use math alot in the following assignments.  Basic arithmatic as well and some multiplication and division. We also talked about input and output. We then basically just had a quiz or basic assignment of everything that we had gone through from the entire week.
 - Week 5 Work Log:
-- Week 6 Work Log
+In week 5, python finally started to heat up with conditional statements. Using math opperations such as greater than and equal to or just greater than. We also used == and !=. We also were using flowcharts to help understand what the conditional statements were actually saying. We also vaugely introduced variables.
+- Week 6 Work Log:
+Week 6 was all about functions in python and how to apply and use them when actually making a program. It was all about applying and writing new code. def was the very first function we used. Also we used int, float,str,input.
