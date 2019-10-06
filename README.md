@@ -53,6 +53,7 @@ Week:
 - Week 1 Work Log:
 In week 1 I learned about the reason for why we program and use computers in general. The first week wasn't used to code much. The only small program i was to create was the "Hello World" one. Which was really basic so i had zero trouble. The course also introduced me to the basic overview of what python is and what it is as a programming langauge. The teacher also talks about how computers affect our daily lives and why programmnig is so vital to the future.
 - Week 2 Work Log:
+Week 2 focused on the overall basics of python, such as downloading it onto the computer and learning the basic commands that you can use while useing python. Another thing that was mentioned was the use of screenshots and how to capture them. We then had a basic quiz that i still couldnt submit since the course it audited but i was able to give the gist of it. The quiz overview was about the stuff mentioned in week one as well as the new basic commands we have now just learned.
 - Week 3 Work Log:
 - Week 4 Work Log:
 - Week 5 Work Log:
