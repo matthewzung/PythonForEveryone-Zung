@@ -65,3 +65,5 @@ Week 6 was all about functions in python and how to apply and use them when actu
 - Week 7 Work Log:
 Loops! Finally caught up to our actual class. This weeks lectures were about loops, what loops are used for, the different types of loops, and how to actually use loops when programming. We talked about definite loops and indefinite loops as well.
 We also did some excersises while in the lectures of practicing when to use a definite loop and a indefinite loop. I'd say this week was the most valiable information to actually start to help me a ton while programming.
+- Week 8 Work Log:
+It turns out the coursera class for python for everyone ended on the loops section. I will be providing a picture to prove.
